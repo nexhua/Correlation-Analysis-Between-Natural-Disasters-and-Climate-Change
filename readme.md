@@ -26,3 +26,7 @@
 <p>
   Each ipynb file tries to get data from Datasets file but we couldn't upload every dataset to GitHub because it exceed the file size limit which is 100MB. So we uploaded them to google drive. [Datasets](https://drive.google.com/drive/folders/1_QvFrcPuNtgAj320KmdXsQgiX-fGB27g?usp=sharing)
 </p>
+
+<p>
+  Used libraries are : numpy,seaborn,matplotlib,pandas,sk-learn,pygal,plotly,cufflinks,pydot,missingno,pydot
+</p>
