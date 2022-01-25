@@ -2,9 +2,9 @@
 
 <ol>
 <li>city_tempature.ipynb</li>
-  <p>Shows visualization for top 5 coldest countries.</p>
+  <p>Shows visualization for top 5 coldest countries and the areas with highest temperature change.</p>
 <li>tempature2.ipynb</li>
-  <p>Shows the areas with highest temperature change and detailed temperature analysis for each country.</p>
+  <p> Detailed temperature analysis for each country.</p>
 <li>colorful point visual - green house emissions by sector.ipynb</li>
   <p>Shows greenhouse gasses emissions by sector.</p>
 <li>CO2_emissions_by_world&each_country-treemap.ipynb</li>
