@@ -28,7 +28,7 @@
 </p>
 
 <p>
-  Used libraries are : numpy,seaborn,matplotlib,pandas,sk-learn,pygal,plotly,cufflinks,pydot,missingno,pydot
+  Used libraries are : numpy,seaborn,matplotlib,pandas,sk-learn,pygal,plotly,cufflinks,pydot,missingno,pydot,nltk
 </p>
 
 <p>Youtube Presentation Video : [Video](https://www.youtube.com/watch?v=CdzIKf0mbX4)</p>
